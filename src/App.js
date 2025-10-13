@@ -94,7 +94,7 @@ function TabContent({ item }) {
 function DifferentContent() {
   return (
     <div className="tab-content">
-      <h4>I'm a DIFFERENT tab, so I reset state 💣💥</h4>
+      <h4>I'm a DIFFERENT tab, 💣💥</h4>
     </div>
   );
 }
